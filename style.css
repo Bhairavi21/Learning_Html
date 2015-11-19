@@ -1,0 +1,11 @@
+a{
+  color:green;
+  text-decoration: overline;
+  font-family: cursive;
+}
+
+div{
+  width:500px;
+  background-color: lightblue;
+  margin-left: 50px;
+}
