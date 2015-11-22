@@ -1,0 +1,17 @@
+body{
+  background-color: blue;
+}
+
+h1{
+  font-size: 150px;
+  text-align: center;
+  margin-top: 50px;
+  font-family: fantasy;
+  letter-spacing: 5px;
+  color : black;
+  text-transform: full-width;
+  text-shadow:
+  5px 10px 10px white,
+  7px 10px 10px red;
+
+}

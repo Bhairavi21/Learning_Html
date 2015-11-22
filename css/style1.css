@@ -1,0 +1,40 @@
+
+.content, aside{
+  height:600px;
+}
+.content{
+  background-color: red;
+  float:left;
+  width:80%;
+
+}
+
+aside{
+  background-color: brown;
+  float:left;
+  width:20%;
+}
+.wrap{
+  margin: auto;
+  width:80%;
+  min-width: 600px;
+  background-color: green;
+  overflow: hidden;
+}
+
+aside ul{
+  list-style: none;
+  padding-left: 0
+}
+
+li{
+  display: inline;
+}
+
+a{
+  text-decoration: none;
+}
+ul a:hover{
+  text-decoration: underline;
+  color: orange;
+}

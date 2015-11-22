@@ -1,0 +1,28 @@
+.box{
+  background: lightblue;
+  height:600px;
+  width:600px;
+  position: relative;
+  top: 20px;
+  left:100px;
+}
+
+.box1{
+  background: red;
+  height:300px;
+  width:300px;
+  position: absolute;
+  top:100px;
+  left:100px;
+
+
+}
+
+.box2{
+  background: yellow;
+  height:100px;
+  width:100px;
+  position: absolute;
+  top :10px;
+  left:20px;
+}
